@@ -47,13 +47,7 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <!-- Карточка статистики в стиле Aura -->
   <img src="https://github-readme-stats.vercel.app/api?username=Artur-Ismailov&theme=aura&hide_border=false&show_icons=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Топ языков (опционально, можно убрать) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Ismailov&theme=aura&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
