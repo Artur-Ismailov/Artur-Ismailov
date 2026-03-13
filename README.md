@@ -1,12 +1,10 @@
-<!-- Приветствие с анимацией -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=435&lines=👋+Привет,+меня+зовут+Артур;QA+Engineer+/+Тестировщик;🔍+Ищу+баги+до+того,+как+их+найдут+пользователи" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=435&lines=Привет,+меня+зовут+Артур;QA+Engineer+/+Тестировщик" alt="Typing SVG" />
 </p>
 
-<!-- Кратко о себе -->
 <p align="center">
   🎯 <b>Ручное и автотестирование</b> | 🐍 <b>Python/Playwright</b> | 🐳 <b>CI/CD</b><br>
-  📍 Уфа, РФ | 💼 Открыт к предложениям
+  📍 Уфа, РФ |
 </p>
 
 <p align="center">
@@ -46,19 +44,9 @@
 
 ---
 
-### 📊 Моя активность на GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artur-Ismailov&show_icons=true&theme=green&hide_border=true&locale=ru" height="150" alt="Статистика" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Ismailov&layout=compact&theme=green&hide_border=true&locale=ru" height="150" alt="Языки" />
-</p>
-
----
-
 ### 🤝 Контакты
 
 <p align="center">
   <a href="https://t.me/MUGEN671">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Написать" />
   </a>
-  <a href="mailto:artur-ismailov-0
