@@ -54,14 +54,12 @@
 
 ### 🤝 Контакты
 
-<p align="center">
+<p align="center" style="font-size: 2em;">
   <a href="https://t.me/MUGEN671">
-    <img src="https://img.shields.io/badge/Telegram-@MUGEN671-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/-@MUGEN671-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="200" />
   </a>
-</p>
-
-<p align="center">
+  <br><br>
   <a href="mailto:artur-ismailov-01@mail.ru">
-    <img src="https://img.shields.io/badge/Email-artur--ismailov--01@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="200" />
   </a>
 </p>
