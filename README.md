@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#-контакты">
+  <a href="https://t.me/MUGEN671">
     <img src="https://img.shields.io/badge/📩_Написать_мне-2E8B57?style=for-the-badge" />
   </a>
 </p>
@@ -48,7 +48,6 @@
 
 ### 📊 Моя активность на GitHub
 
-<!-- Замените 'your-username' на ваш логин -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Artur-Ismailov&show_icons=true&theme=green&hide_border=true&locale=ru" height="150" alt="Статистика" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Ismailov&layout=compact&theme=green&hide_border=true&locale=ru" height="150" alt="Языки" />
@@ -58,16 +57,8 @@
 
 ### 🤝 Контакты
 
-<!-- Замените ссылки на ваши соцсети -->
 <p align="center">
   <a href="https://t.me/MUGEN671">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Написать" />
   </a>
-  <a href="mailto:artur-ismailov-01@mail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Почта" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>✨ "Хороший тестировщик не находит баги — он предотвращает их появление" ✨</sub>
-</p>
+  <a href="mailto:artur-ismailov-0
