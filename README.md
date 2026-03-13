@@ -56,9 +56,9 @@
 
 <p align="center">
   <a href="https://t.me/MUGEN671">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Написать" />
+    <img src="https://img.shields.io/badge/Telegram-@MUGEN671-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:artur-ismailov-01@mail.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Почта" />
+    <img src="https://img.shields.io/badge/Email-artur--ismailov--01@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
